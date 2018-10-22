@@ -4,8 +4,8 @@ sourceCompatibility = "1.8"
 targetCompatibility = "1.8"
 
 dependencies {
-    compileOnly "com.android.tools.lint:lint-api:26.1.4"
-    compileOnly "com.android.tools.lint:lint-checks:26.1.4"
+    compileOnly "com.android.tools.lint:lint-api:26.2.1"
+    compileOnly "com.android.tools.lint:lint-checks:26.2.1"
 }
 
 jar {

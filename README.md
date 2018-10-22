@@ -53,7 +53,7 @@ BUILD FAILED in 3s
 
 ## Extra logs
 
-Added debugging logs to a custom lint-gradle 26.1.4 jar with seems to point out that `Project`s are generated for depdendencies.
+Added debugging logs to a custom lint-gradle jar with seems to point out that `Project`s are generated for depdendencies.
 
 
 ```
